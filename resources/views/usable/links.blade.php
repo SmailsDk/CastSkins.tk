@@ -1,0 +1,16 @@
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/alertify.js/0.5.0/alertify.default.css">
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/normalize/4.1.1/normalize.min.css">
+<link rel="stylesheet" href="../css/bootstrap.css">
+<link rel="stylesheet" href="../css/main.css">
+<link rel="stylesheet" href="../css/mobiles.css">
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.3/css/font-awesome.min.css">
+<link rel="stylesheet" href="{{asset('css/jquery.mCustomScrollbar.css')}}">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/alertify.js/0.5.0/alertify.core.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/alertify.js/0.5.0/alertify.default.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.1/animate.min.css">
+<link rel="stylesheet" href="{{asset('css/remodal.css')}}">
+<link rel="stylesheet" href="{{asset('css/remodal-default-theme.css')}}">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tooltipster/3.3.0/css/tooltipster.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tooltipster/3.3.0/css/themes/tooltipster-light.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-switch/3.3.2/css/bootstrap2/bootstrap-switch.min.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/1.1.3/sweetalert.css">

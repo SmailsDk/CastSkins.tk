@@ -1,0 +1,82 @@
+@media screen and (min-width: 1240px) {
+  .mobile_fader {
+    display: none !important;
+  }
+}
+@media screen and (max-width: 1240px) {
+  #bottom_navi {
+    display: none;
+  }
+  #navigation {
+    display: none;
+  }
+  #mobile_navi {
+    display: block;
+    position: fixed;
+    top: 0;
+    z-index: 9999;
+  }
+  body {
+    padding-top: 51px;
+  }
+  #content_content {
+    height: inherit !important;
+  }
+  .mCustomScrollBox {
+    position: inherit !important;
+    overflow: inherit !important;
+    height: inherit !important;
+  }
+  .jackpotPeople .mCustomScrollBox {
+    position: relative !important;
+    overflow: hidden !important;
+    height: 100% !important;
+  }
+  #status,#tstatus {
+    margin-bottom: 20px;
+  }
+  .centralize {
+    text-align: center;
+    margin-bottom: 10px;
+    img {
+      display: none;}
+    .winner_row {
+      .winnerName {
+        width: 100%;
+      }
+      float: none; text-align: center;
+      display: inline-block;
+    }
+  }
+  .last_winnero {
+    text-align: center;
+    h4 {
+      width: 100%;
+      margin-bottom: 30px;
+    }
+    img {
+      display: none;
+    }
+  }
+}
+@media screen and (max-width: 760px) {
+  .usersInPot .user .user_name {
+    font-size: 9px;
+    width: 100%;
+  }
+  .usersInPot .user .user_info {
+    font-size: 10px;
+    width: 100%;
+  }
+  .usersInPot .user .left_image {
+    display: none;
+  }
+}
+@media screen and (max-width: 1330px) {
+  #recents {
+    display: none;
+  }
+  .maincon {
+    width: 100% !important;
+  }
+}

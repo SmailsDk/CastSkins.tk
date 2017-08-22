@@ -1,0 +1,1 @@
+Hi {{$nick}}. Please activate your email : <a href="http://csgourban.com/confirmEmail/{{$id}}">CLICK HERE</a>

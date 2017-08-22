@@ -1,0 +1,59 @@
+2016-10-05T12:47:46.058Z - warn: Sentry defined in options doesn't exists and will be created on successful login
+2016-10-05T12:47:46.066Z - debug: Connecting to Steam...
+2016-10-05T12:47:47.552Z - verbose: Connected to Steam, logging in...
+2016-10-05T12:47:47.553Z - debug: Logging in...
+2016-10-05T12:47:48.143Z - warn: EResult for logon: 63
+2016-10-05T12:47:49.227Z - warn: Sentry defined in options doesn't exists and will be created on successful login
+2016-10-05T12:47:49.235Z - debug: Connecting to Steam...
+2016-10-05T12:48:15.367Z - warn: Sentry defined in options doesn't exists and will be created on successful login
+2016-10-05T12:48:15.375Z - debug: Connecting to Steam...
+2016-10-05T12:48:15.928Z - verbose: Connected to Steam, logging in...
+2016-10-05T12:48:15.928Z - debug: Logging in...
+2016-10-05T12:48:16.311Z - info: Logged into Steam!
+2016-10-05T12:48:16.358Z - debug: New sentry: ssfn7808960280095035292
+2016-10-05T12:48:18.311Z - info: Logged into Steam web
+2016-10-05T12:48:19.777Z - error: Error: Error 84
+    at SteamCommunity.<anonymous> (/var/www/qcases/node_modules/steamcommunity/components/twofactor.js:42:17)
+    at Request._callback (/var/www/qcases/node_modules/steamcommunity/components/http.js:62:14)
+    at Request.self.callback (/var/www/qcases/node_modules/request/request.js:200:22)
+    at emitTwo (events.js:100:13)
+    at Request.emit (events.js:185:7)
+    at Request.<anonymous> (/var/www/qcases/node_modules/request/request.js:1067:10)
+    at emitOne (events.js:95:20)
+    at Request.emit (events.js:182:7)
+    at IncomingMessage.<anonymous> (/var/www/qcases/node_modules/request/request.js:988:12)
+    at emitNone (events.js:85:20)
+2016-10-05T13:08:03.769Z - info: Using sentry file csgourban1-new.sentry
+2016-10-05T13:08:03.777Z - debug: Connecting to Steam...
+2016-10-05T13:08:04.262Z - verbose: Connected to Steam, logging in...
+2016-10-05T13:08:04.262Z - debug: Logging in...
+2016-10-05T13:08:04.679Z - info: Logged into Steam!
+2016-10-05T13:08:06.567Z - info: Logged into Steam web
+2016-10-05T13:08:07.873Z - error: Error: Error 84
+    at SteamCommunity.<anonymous> (/var/www/qcases/node_modules/steamcommunity/components/twofactor.js:42:17)
+    at Request._callback (/var/www/qcases/node_modules/steamcommunity/components/http.js:62:14)
+    at Request.self.callback (/var/www/qcases/node_modules/request/request.js:200:22)
+    at emitTwo (events.js:100:13)
+    at Request.emit (events.js:185:7)
+    at Request.<anonymous> (/var/www/qcases/node_modules/request/request.js:1067:10)
+    at emitOne (events.js:95:20)
+    at Request.emit (events.js:182:7)
+    at IncomingMessage.<anonymous> (/var/www/qcases/node_modules/request/request.js:988:12)
+    at emitNone (events.js:85:20)
+2016-10-05T13:43:37.066Z - info: Using sentry file csgourban1-new.sentry
+2016-10-05T13:43:37.074Z - debug: Connecting to Steam...
+2016-10-05T13:43:50.592Z - verbose: Connected to Steam, logging in...
+2016-10-05T13:43:50.592Z - debug: Logging in...
+2016-10-05T13:43:50.969Z - info: Logged into Steam!
+2016-10-05T13:43:52.287Z - info: Logged into Steam web
+2016-10-05T13:43:53.614Z - error: Error: Error 84
+    at SteamCommunity.<anonymous> (/var/www/qcases/node_modules/steamcommunity/components/twofactor.js:42:17)
+    at Request._callback (/var/www/qcases/node_modules/steamcommunity/components/http.js:62:14)
+    at Request.self.callback (/var/www/qcases/node_modules/request/request.js:200:22)
+    at emitTwo (events.js:100:13)
+    at Request.emit (events.js:185:7)
+    at Request.<anonymous> (/var/www/qcases/node_modules/request/request.js:1067:10)
+    at emitOne (events.js:95:20)
+    at Request.emit (events.js:182:7)
+    at IncomingMessage.<anonymous> (/var/www/qcases/node_modules/request/request.js:988:12)
+    at emitNone (events.js:85:20)
